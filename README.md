@@ -83,13 +83,6 @@ This project solves that problem by delivering a **single interactive dashboard*
 
 ---
 
-## 📁 Project Files
-
-* `Project - Regional Sales Analysis.twbx` – Tableau packaged workbook
-* `Regional_Sales_Analysis_Problem_Statement.pdf` – Business requirements
-
----
-
 ## 🎓 Learning Outcomes
 
 * Hands-on experience with Tableau parameters and calculated fields
