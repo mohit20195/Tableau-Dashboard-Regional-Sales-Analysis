@@ -94,7 +94,7 @@ This project solves that problem by delivering a **single interactive dashboard*
 
 ## 👤 Author
 
-**Mohit Sharma**
+**Mohit Sharma -**
 Finance & Data Analytics Professional
 
 ---
